@@ -10,7 +10,7 @@
 - [Election simulation program](#Election-simulation-program)
 
 ## Spice card game
-***./Spice_card_game <config file path>***
+***./Spice_card_game <CONFIG (file path)>***
 
 A card game for two players which is loosely inspired by "Spicy". All cards have two characteristics:
 a spice and a value. The game is started with a command line argument which leads to config file containing
